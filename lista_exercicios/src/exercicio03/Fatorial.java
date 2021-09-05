@@ -9,7 +9,6 @@ import java.util.Scanner;
 public class Fatorial {
     private static Map<Integer, BigInteger> fatoriais = new HashMap<>();
 
-    //Calculo do fatorial utilizando o conceito de Programacao Dinamica.
     public static void main(String[] args){
 
         System.out.print("Digite um número para o calculo do fatorial: ");
